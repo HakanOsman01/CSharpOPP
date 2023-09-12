@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{D2613E39-4EC6-4BBC-9016-8C5F4FFE65AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{2C11A18A-495D-43A6-96C0-66B5A5C0ED20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2613E39-4EC6-4BBC-9016-8C5F4FFE65AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2613E39-4EC6-4BBC-9016-8C5F4FFE65AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2613E39-4EC6-4BBC-9016-8C5F4FFE65AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2613E39-4EC6-4BBC-9016-8C5F4FFE65AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C11A18A-495D-43A6-96C0-66B5A5C0ED20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C11A18A-495D-43A6-96C0-66B5A5C0ED20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C11A18A-495D-43A6-96C0-66B5A5C0ED20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C11A18A-495D-43A6-96C0-66B5A5C0ED20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6829DE4D-F5BC-4D44-AE6E-1A5D36DD322F}
+	EndGlobalSection
+EndGlobal

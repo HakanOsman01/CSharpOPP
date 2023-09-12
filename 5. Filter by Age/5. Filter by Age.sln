@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Filter by Age", "5. Filter by Age\5. Filter by Age.csproj", "{FB9D6E24-F6D7-492E-8447-41418619B433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Predicate Party!", "09. Predicate Party!\09. Predicate Party!.csproj", "{1C990DC5-863D-46E6-866C-558E8A0ADF74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9D6E24-F6D7-492E-8447-41418619B433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9D6E24-F6D7-492E-8447-41418619B433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9D6E24-F6D7-492E-8447-41418619B433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9D6E24-F6D7-492E-8447-41418619B433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C990DC5-863D-46E6-866C-558E8A0ADF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C990DC5-863D-46E6-866C-558E8A0ADF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C990DC5-863D-46E6-866C-558E8A0ADF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C990DC5-863D-46E6-866C-558E8A0ADF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93195BDF-47A5-47BC-BA87-8F70ECA4D15F}
+	EndGlobalSection
+EndGlobal
